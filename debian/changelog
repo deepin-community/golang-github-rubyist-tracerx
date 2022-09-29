@@ -1,0 +1,12 @@
+golang-github-rubyist-tracerx (0.0~git20170927.0.7879593-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump standards version to 4.1.1
+
+ -- Stephen Gelman <ssgelm@gmail.com>  Thu, 05 Oct 2017 04:30:08 +0000
+
+golang-github-rubyist-tracerx (0.0~git20150602.0.d7bcc0b-1) unstable; urgency=medium
+
+  * Initial release (Closes: #869518)
+
+ -- Stephen Gelman <ssgelm@gmail.com>  Mon, 03 Jul 2017 04:27:18 +0000
